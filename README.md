@@ -4,9 +4,9 @@
 ## `Table of Contents 📋`
 | SNo. | **Contents** |
 | ---  | ------------ |
-| 1.   | [Linux](#1-Linux) |
-| 2.   | [Python](#2-Python) |
-| 3.   | [Python Project](#3-Python-Project) |
+| 1.   | [Linux](/1-Linux) |
+| 2.   | [Python](/2-Python) |
+| 3.   | [Python Project](/3-Python-Project) |
 
 ## `Folder Structure`
 ```js
